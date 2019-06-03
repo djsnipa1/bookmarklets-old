@@ -1,0 +1,1 @@
+javascript:var%20text='['+document.title+']('+location.href+')';window.prompt("Copy%20to%20clipboard:%20Ctrl+C,%20Enter",text);void(0);
